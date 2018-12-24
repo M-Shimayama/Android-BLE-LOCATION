@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:16:1-57:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\59c196796a45716342e0146f952ff81c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\d11d7b2f9cc039a939140b41cbb5242c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\61cbfdfb44ac75e9596b504a433f7d31\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8e11d15129408e6c6ebf7db03c188670\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a1e9bfdab708dad858f5c8dae629b575\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ba80d076541115927e02316037a4a07e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b86f0c241bdbdb20c0dd0707b2f1e98c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\deafa6bbb419d01cd5a63757f8d18b0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\326efe600f1e3f2c9697e6a88e6d18f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\33df7f4e64eab286ccb4db11a3a6e829\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8b4c25e441140c3461cedea4ecea09dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8280608d863128bd9ea6b578fb574aae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e36699ef7d383be9a71e53643d6880f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d3901714448d22c45457b701a70502be\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:16:1-57:12
+	package
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:17:5-58
+	android:versionName
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:21:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:22:22-65
+application
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:24:5-55:19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\d11d7b2f9cc039a939140b41cbb5242c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\d11d7b2f9cc039a939140b41cbb5242c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\61cbfdfb44ac75e9596b504a433f7d31\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\61cbfdfb44ac75e9596b504a433f7d31\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:19:5-21:19
+	android:label
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.bluetoothadvertisements.MainActivity
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:35:27-74
+service#com.example.android.bluetoothadvertisements.AdvertiserService
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:43:9-46:48
+	android:enabled
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:44:13-46
+service#com.example.android.bluetoothadvertisements.ScannerService
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:47:9-50:48
+	android:enabled
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:48:13-43
+service#com.example.android.bluetoothadvertisements.GPSLocationService
+ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:51:9-54:47
+	android:enabled
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:54:13-36
+	android:name
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml:52:13-47
+uses-sdk
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\59c196796a45716342e0146f952ff81c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\59c196796a45716342e0146f952ff81c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\d11d7b2f9cc039a939140b41cbb5242c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.0.aar\d11d7b2f9cc039a939140b41cbb5242c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\61cbfdfb44ac75e9596b504a433f7d31\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.0.aar\61cbfdfb44ac75e9596b504a433f7d31\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8e11d15129408e6c6ebf7db03c188670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8e11d15129408e6c6ebf7db03c188670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a1e9bfdab708dad858f5c8dae629b575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\a1e9bfdab708dad858f5c8dae629b575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ba80d076541115927e02316037a4a07e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ba80d076541115927e02316037a4a07e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b86f0c241bdbdb20c0dd0707b2f1e98c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b86f0c241bdbdb20c0dd0707b2f1e98c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\deafa6bbb419d01cd5a63757f8d18b0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\deafa6bbb419d01cd5a63757f8d18b0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\326efe600f1e3f2c9697e6a88e6d18f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\326efe600f1e3f2c9697e6a88e6d18f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\33df7f4e64eab286ccb4db11a3a6e829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\33df7f4e64eab286ccb4db11a3a6e829\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8b4c25e441140c3461cedea4ecea09dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8b4c25e441140c3461cedea4ecea09dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8280608d863128bd9ea6b578fb574aae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8280608d863128bd9ea6b578fb574aae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e36699ef7d383be9a71e53643d6880f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e36699ef7d383be9a71e53643d6880f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d3901714448d22c45457b701a70502be\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d3901714448d22c45457b701a70502be\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\android-BluetoothAdvertisements\Application\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.0.aar\fbe88d276d41b80d449fc9cad4a1d9c9\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\motom\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.0.aar\7ffedfd2a16f182d0e870fe18ac503d4\AndroidManifest.xml:20:20-65
